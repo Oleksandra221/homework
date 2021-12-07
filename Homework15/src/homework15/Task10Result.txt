@@ -1,0 +1,7 @@
+name; String public 
+surname; String public 
+age; int public 
+hobby; String public 
+surname that display name and //method 
+display(){ void public 
+surname); + " " + System.out.println(name 

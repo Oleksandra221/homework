@@ -1,0 +1,10 @@
+public class JavaExample{
+       public String name;
+       public String surname;
+       public int age;
+       public String hobby;
+
+       public void display(){
+       System.out.println(name + " " + surname);
+       }
+}
