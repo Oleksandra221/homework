@@ -1,0 +1,11 @@
+Char: d
+String: Fred
+String: 6.6
+String: 78
+String: Java
+Char: l
+Char: i
+Char: k
+Char: e
+String: 8,8
+String: 9076.99
